@@ -1,24 +1,14 @@
 <h1 align="center">KATHERINE BLAINE</h1>
-<p align="center">✉️ kblaine22@turing.edu</p>
-<p align="center"><a href="https://www.linkedin.com/in/katherinekblaine/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
----
-
-
-<!-- Welcome Paragraph -->
+<!-- Intro Paragraph -->
 <body>
-  <p align="center">Hello there! 👋</p>
-<p align="center">My name is Katherine Blaine, a frontend developer and a proud graduate of the Turing School of Software and Design. </p>
-
-<p align="center">I possess a diverse skill set and a passion for crafting intuitive user experiences, and am eager to apply these skills as I embark on an exciting career in Software Development. Below, you'll find more details about my skills, interests, and a showcase of my previous work. I'm actively seeking new opportunities, so feel free to explore my profile and connect with me. </p>
-
+  <p align="center">Hello there!</p>
+  <p align="center">My name is Katherine Blaine, a frontend developer and a proud graduate of the Turing School of Software and Design. </p>
+  <p align="center">I possess a diverse skill set and a passion for crafting intuitive user experiences, and am eager to apply these skills as I embark on an exciting career in Software Development. Below, you'll find more details about my skills, interests, and a showcase of my previous work. I'm actively seeking new opportunities, so feel free to explore my profile and connect with me. </p>
 </body>
 
-<p align="center"><br><span>○○○</span><br></p>
-
-
 <!-- Featured Projects -->
-<h3 align="center">Featured Projects</h3>
+<h1 align="center">Featured Projects</h1>
 
 <p align="center">
   <a href="https://github.com/A-L-P-s/alps-ui">
@@ -30,10 +20,7 @@
 </a>
 </p>
 
-
-<p align="center"><br><span>○○○</span><br></p>
-
-<h3 align="center">Primary Tech Stack</h3>
+<h1 align="center">Primary Tech Stack</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -44,9 +31,7 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </p>
 
----
-
-<h3 align="center">Full Tech Stack</h3>
+<h1 align="center">Full Tech Stack</h1>
 
 <details>
   <summary>Version Control</summary>
@@ -77,14 +62,10 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </details>
 
----
-
-<h3 align="center">🌱 Currently Learning 🌱</h3>
+<h1 align="center">Currently Learning 🌱</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>
-
----
