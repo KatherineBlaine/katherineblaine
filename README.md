@@ -14,13 +14,13 @@
 
 </body>
 
-<p align="center"><br><span>○○○</span><br></p>
+<!-- <p align="center"><br><span>○○○</span><br></p> -->
 
 
 <!-- Featured Projects -->
-<h3 align="center">Featured Projects</h3>
+<h3>Featured Projects</h3>
 
-<p align="center">
+
   <a href="https://github.com/A-L-P-s/alps-ui">
   <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=katherineblaine&repo=alps-ui&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -28,12 +28,12 @@
 <a href="https://github.com/espressoGoddess/beam">
   <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=espressoGoddess&repo=beam&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-</p>
 
-<p align="center"><br><span>○○○</span><br></p>
+
+<!-- <p align="center"><br><span>○○○</span><br></p> -->
 <!-- Tech Stack -->
 
-<h3 align="center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 *Version Control*
 <p>
