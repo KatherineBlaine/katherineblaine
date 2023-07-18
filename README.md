@@ -3,8 +3,8 @@
 <!-- Intro Paragraph -->
 <body>
   <p align="center">Hello there!</p>
-  <p align="center">My name is Katherine Blaine, a frontend developer and a proud graduate of the Turing School of Software and Design. </p>
-  <p align="center">I possess a diverse skill set and a passion for crafting intuitive user experiences, and am eager to apply these skills as I embark on an exciting career in Software Development. Below, you'll find more details about my skills, interests, and a showcase of my previous work. I'm actively seeking new opportunities, so feel free to explore my profile and connect with me. </p>
+  <p align="center">My name is Katherine Blaine, a frontend developer and a recent graduate of the Turing School of Software and Design. </p>
+  <p align="center">I am passionate about applying my frontend technology skills to craft efficient user interfaces, and am eager to apply these skills as I embark on an exciting career in Software Development. Below, you'll find more details about my skills, interests, and a showcase of my previous work. I'm actively seeking new opportunities, so feel free to explore my profile and connect with me! </p>
 </body>
 
 <!-- Featured Projects -->
