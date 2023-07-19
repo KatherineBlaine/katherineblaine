@@ -3,7 +3,7 @@
 <!-- Intro Paragraph -->
 <body>
   <p align="center">Hello and welcome to my GitHub portfolio!</p>
-  <p align="center">My name is Katherine Blaine, a frontend developer and a recent graduate of the Turing School of Software and Design. Below you will find more information about my experience as a developer, as well as a portfolio of projects that showcase these skills! </p>
+  <p align="center">My name is Katherine Blaine, a frontend developer and a recent graduate of the Turing School of Software and Design. Below you will find more information about my experience as a developer, as well as a portfolio of projects that showcase these skills! I am actively seeking opportunities to begin my career as a developer, so feel free to reach out if you are interested in collaborating! </p>
 </body>
 
 <!-- Featured Projects -->
